@@ -1,4 +1,3 @@
-,,,,,,
 S. No.,States/UTs,2017-18,2018-19,2019-20,2020-21,2021-22
 1,Andhra Pradesh,1738,1689,1559,1559,1759
 2,Bihar,840,850,850,995,995
@@ -13,26 +12,26 @@ S. No.,States/UTs,2017-18,2018-19,2019-20,2020-21,2021-22
 11,Madhya Pradesh,502,540,540,691,654
 12,Maharashtra,15568,11746,12783,13243,13175
 13,Orissa,1633,1609,1115,1158,1240
-14,Punjab,5835,5543,4995,5193,NR
+14,Punjab,5835,5543,4995,5193,
 15,Rajasthan,2307,2290,2088,2330,2104
 16,Tamil Nadu,1929,1901,2225,1834,1851
 17,Telangana,4866,4894,4915,4986,5090
 18,Uttar Pradesh,10824,11049,12217,11557,11688
 19,Uttarakhand,210,195,224,135,114
 20,West Bengal,2982,3190,3630,3630,3630
-21,Arunachal Pradesh,NR,5,5,2,3
+21,Arunachal Pradesh,,5,5,2,3
 22,Assam,241,256,410,420,428
-23,Manipur,27,NR,25,46,NR
-24,Meghalaya,Organic State,Organic State,Organic State,Organic State,Organic State
-25,Mizoram,NR,26,27,NR,23
+23,Manipur,27,,25,46,
+24,Meghalaya,0.5,0.5,0.5,0.5,0.5
+25,Mizoram,,26,27,,23
 26,Nagaland,20,21,19,36,41
-27,Sikkim,Organic State,Organic State,Organic State,Organic State,NR
-28,Tripura,330,349,364,NR,NR
-29,Andaman & Nicobar,NR,NR,NR,1,NR
-30,Chandigarh,NR,NR,NR,NR,NR
-31,Dadra & Nagar Haveli and Daman & Diu,NR,NR,NR,NR,NR
-32,Delhi,NR,110,NR,NR,NR
+27,Sikkim,0.5,0.5,0.5,0.5,
+28,Tripura,330,349,364,,
+29,Andaman & Nicobar,,,,1,
+30,Chandigarh,,,,,
+31,Dadra & Nagar Haveli and Daman & Diu,,,,,
+32,Delhi,,110,,,
 33,Jammu & Kashmi,2430,2459,2198,3352,4086
-34,Ladakh,NR,NR,NR,NR,NR
-35,Lakshadweep,NR,NR,NR,NR,NR
-36,Pondicherry,43,42,40,NR,NR
+34,Ladakh,,,,,
+35,Lakshadweep,,,,,
+36,Pondicherry,43,42,40,,
